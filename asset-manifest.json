@@ -1,26 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.b6ae961a.css",
-    "main.js": "/static/js/main.1fca8d7e.js",
+    "main.css": "/static/css/main.ecad8cbd.css",
+    "main.js": "/static/js/main.28422c8b.js",
     "static/js/787.c4ada674.chunk.js": "/static/js/787.c4ada674.chunk.js",
-    "static/media/Cogimientoland-Fondo2.jpg": "/static/media/Cogimientoland-Fondo2.32809f59b3dd81679bcb.jpg",
+    "static/media/CGL3.png": "/static/media/CGL3.7ee22812033253a5b925.png",
     "static/media/CGL5.png": "/static/media/CGL5.b5bc01e336c8e5d62e0b.png",
     "static/media/DAY.png": "/static/media/DAY.21647d8b9ea372abfab9.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
     "static/media/Nunito-Black.ttf": "/static/media/Nunito-Black.969e95ce4a719e43f654.ttf",
+    "static/media/CGL4.png": "/static/media/CGL4.eaa9f9f2032b3f6ceaa4.png",
     "static/media/Cogimientoland-LOGO.png": "/static/media/Cogimientoland-LOGO.afcd3c625b95c1b18db2.png",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/CGL6.jpg": "/static/media/CGL6.76f8e968b75e22e2c6a5.jpg",
     "static/media/Minecraft.ttf": "/static/media/Minecraft.81f6c7f882fcc2dee106.ttf",
     "index.html": "/index.html",
-    "main.b6ae961a.css.map": "/static/css/main.b6ae961a.css.map",
-    "main.1fca8d7e.js.map": "/static/js/main.1fca8d7e.js.map",
+    "main.ecad8cbd.css.map": "/static/css/main.ecad8cbd.css.map",
+    "main.28422c8b.js.map": "/static/js/main.28422c8b.js.map",
     "787.c4ada674.chunk.js.map": "/static/js/787.c4ada674.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6ae961a.css",
-    "static/js/main.1fca8d7e.js"
+    "static/css/main.ecad8cbd.css",
+    "static/js/main.28422c8b.js"
   ]
 }
