@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.71a96a4b.css",
+    "main.js": "/static/js/main.eb361162.js",
+    "static/js/787.c4ada674.chunk.js": "/static/js/787.c4ada674.chunk.js",
+    "static/media/Cogimientoland-Fondo2.jpg": "/static/media/Cogimientoland-Fondo2.32809f59b3dd81679bcb.jpg",
+    "static/media/CGL5.png": "/static/media/CGL5.b5bc01e336c8e5d62e0b.png",
+    "static/media/DAY.png": "/static/media/DAY.21647d8b9ea372abfab9.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/Nunito-Black.ttf": "/static/media/Nunito-Black.969e95ce4a719e43f654.ttf",
+    "static/media/Cogimientoland-LOGO.png": "/static/media/Cogimientoland-LOGO.afcd3c625b95c1b18db2.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/Minecraft.ttf": "/static/media/Minecraft.81f6c7f882fcc2dee106.ttf",
+    "index.html": "/index.html",
+    "main.71a96a4b.css.map": "/static/css/main.71a96a4b.css.map",
+    "main.eb361162.js.map": "/static/js/main.eb361162.js.map",
+    "787.c4ada674.chunk.js.map": "/static/js/787.c4ada674.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71a96a4b.css",
+    "static/js/main.eb361162.js"
+  ]
+}
